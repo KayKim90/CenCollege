@@ -1,0 +1,14 @@
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\bin\Debug\DrawingPanel.exe.config
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\bin\Debug\DrawingPanel.exe
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\bin\Debug\DrawingPanel.pdb
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\MainWindow.g.cs
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\App.g.cs
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel_MarkupCompile.cache
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel_MarkupCompile.lref
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\MainWindow.baml
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.g.resources
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.Properties.Resources.resources
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.csproj.GenerateResource.cache
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.csproj.CoreCompileInputs.cache
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.exe
+c:\users\risha\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.pdb
